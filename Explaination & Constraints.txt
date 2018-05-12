@@ -1,0 +1,13 @@
+Explaination: 
+The picture is based on bitstring (0/1) where 1 shows high intensity pixel and 0 shows low intensity pixel. The algorithm is self designed, it gives a simple demonstration of usage of KNN for image restoration.
+
+Constraints:
+The Window size is 3 (K=3) becuase it appears illogical to check with far neighbours for recovering an image's pixel.
+
+
+
+
+
+Arsal Sohail
+K15-2814
+Gr-1
